@@ -16,3 +16,7 @@
 - 변수 : 5개월 전 두바이유 가격(원유가격은 5개월 뒤 시세에 영향을 미침)
 - 모델 : GRU
 - 참고자료 : SMP가격 https://new.kpx.or.kr/smpInland.es?mid=a10606080100&device=pc
+
+### REC
+- API로 가장 최근 REC가격을 가져옴
+
