@@ -21,4 +21,5 @@
 ### REC
 - API로 가장 최근 REC가격을 가져옴
 
+### Flask 구현
 ![그림1](https://user-images.githubusercontent.com/102013240/181422086-cebb265b-a4c6-4019-b7ef-657e3acef2d0.png)
